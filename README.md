@@ -8,6 +8,37 @@ Para rodar este projeto na sua máquina, digite:
 npm i firebase && npm i discord.js
 ```
 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ```javascript
 /* Exemplo de criação de Classe com variáveis  */
 
