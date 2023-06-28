@@ -8,7 +8,7 @@ Para rodar este projeto na sua máquina, digite:
 npm i firebase && npm i discord.js
 ```
 
-
+XD
 
 <br>
 <br>
