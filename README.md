@@ -2,7 +2,7 @@
 <BR>
 
 >Status do projeto: em desenvovimento
-Para rodar este projeto na sua máquina, __digite__:
+Para *rodar* este projeto na sua máquina, **digite** :
 
 ```bash
 npm i firebase && npm i discord.js
