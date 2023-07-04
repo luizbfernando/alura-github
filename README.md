@@ -57,3 +57,6 @@ class Guilherme {
 
 const Gui = new Guilherme();
 ```
+```
+created by @guidsribeiro
+```
