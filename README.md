@@ -57,15 +57,5 @@ class Guilherme {
 
 const Gui = new Guilherme();
 ```
-<<<<<<< HEAD
-```
+
 created by @guidsribeiro
-```
-=======
-<<<<<<< HEAD
-```
-created by @guidsribeiro
-```
-=======
->>>>>>> c048109fcf830042d9454d4efe765e7ebedbd364
->>>>>>> b0fd582d3d5e95344e9ecef997608110c0e04a9b
